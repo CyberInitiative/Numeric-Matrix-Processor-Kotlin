@@ -1,0 +1,15 @@
+type: edu
+custom_name: Determined!
+files:
+  - name: src/processor/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/NumericMatrixProcessorTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7790#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 01 Aug 2024 15:19:38 UTC"
+record: 5

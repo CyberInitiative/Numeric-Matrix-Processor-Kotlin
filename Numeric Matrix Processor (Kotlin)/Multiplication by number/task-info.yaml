@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/processor/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/NumericMatrixProcessorTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7787#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 31 Jul 2024 20:01:23 UTC"
+record: 2
